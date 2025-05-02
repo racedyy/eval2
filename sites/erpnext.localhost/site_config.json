@@ -1,7 +1,6 @@
 {
- "db_name": "_079ea469830d3813",
- "db_password": "WhEoFVoZA8oZuLlO",
+ "db_name": "evalerpnext",
+ "db_password": "PwDge4xLVo182g8F",
  "db_type": "mariadb",
- "db_user": "_079ea469830d3813",
- "developer_mode": 1
+ "db_user": "evalerpnext"
 }
